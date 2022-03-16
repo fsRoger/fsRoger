@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <i class="devicon-bootstrap-plain colored"></i>
 <hr/>
-  <h1>- 📫 How to reach me: ...</h1> -------:
+  <h1>- 📫 How to reach me: ...</h1>
  
 <div> 
   <a href="https://instagram.com/keykrono117@gmail" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,10 +29,6 @@
   
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
-<!--
-**Keykrono/Keykrono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 
