@@ -99,4 +99,29 @@
 ⚡ Fun fact: ...I always wanted to be an eternal student. 😄
 
 💬 Ask me
+ 
+ |**Há 10 tipos de pessoas no mundo...**|
+# |:-----------------------------------------:|
+# |1. As que sabem contar em binário|
+# |10. E as que não sabem contar em binário|
+#
+# |Forma Correta|Forma Incorreta|
+# |:-----|---------:|
+# |Biscoito|Bolhacha|
+#
+# Observe que o caractere : usado nas tabelas indica o 
+# alinhamento do texto, veja:
+#
+# |:-------------:| (Centralizado)
+# |:--------------| (Alinhado na esquerda)
+# |--------------:| (Alinhado na direita)
+ 
+ 
+ # Para se colocar imagens em markdown, use a seguinte estrutura: ![texto](referência a imagem).
+#
+# Exemplo
+#
+# ![Isso é Lógico](https://user-images.githubusercontent.com/62623572/80289460-eb992780-8714-11ea-98a3-1874cb5f2e22.png)
+#
+# Veja o resultado abaixo:
 
