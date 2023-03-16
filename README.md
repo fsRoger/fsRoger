@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+ ![Snake animation](https://github.com/Keykrono/Keykrono/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
 <hr/>
@@ -87,7 +88,7 @@
   
   
  
-   ![Snake animation](https://github.com/Keykrono/Keykrono/blob/output/github-contribution-grid-snake.svg)
+  
  
 </div>
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
