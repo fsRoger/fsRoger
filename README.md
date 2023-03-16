@@ -103,7 +103,8 @@
  |**Há 10 tipos de pessoas no mundo...**|
 # |:-----------------------------------------:|
 # |1. As que sabem contar em binário|
-# |10. E as que não sabem contar em binário|
+ |:-------------:|
+ |10. E as que não sabem contar em binário|
 #
 # |Forma Correta|Forma Incorreta|
 # |:-----|---------:|
