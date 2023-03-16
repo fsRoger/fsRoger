@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   
   <h1> Conhecimentos de front-end </h1>
-  
+  >
   <img align="center" alt="Roger-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   >
   <img align="center" alt="Roger-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,8 +34,8 @@
   <br></br>
   <div align=center>
    <h1>Conhecimentos de Back-End
-           
-  <img align="center" alt="Roger-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  >         
+  ><img align="center" alt="Roger-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
  
   <img align="center" alt="Roger-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
           
