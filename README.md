@@ -38,7 +38,7 @@
  
   <img align="center" alt="Roger-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
           
-   <img align="center" alt="Roger-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   ><img align="center" alt="Roger-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
    <img align="center" alt="Roger-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   
@@ -77,7 +77,7 @@
   
   <img align="center" alt="Roger-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   
-   <img align="center" alt="Roger-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   ><img align="center" alt="Roger-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
    
    <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
@@ -104,9 +104,9 @@
 # |1. As que sabem contar em binário|
  |:-------------:|
  |10. E as que não sabem contar em binário|
-#
-# |Forma Correta|Forma Incorreta|
-# |:-----|---------:|
+
+|Forma Correta|Forma Incorreta|
+|:-----|---------:|
 # |Biscoito|Bolhacha|
 #
 # Observe que o caractere : usado nas tabelas indica o 
