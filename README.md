@@ -63,18 +63,18 @@
           
  <h1> Full Stack
   
-  ><img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  ><img align="center" alt="Roger-jquery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
-  <img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Roger-jquery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
                    
-  <img align="center" alt="Roger-ionic" height="30" margin="20px" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+  <img align="center" alt="Roger-ionic" height="60" margin="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   
   
  <h1> Conhecimentos em outras tecnologias
   
-  ><img align="center" alt="Roger-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  ><img align="center" alt="Roger-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   
-  <img align="center" alt="Roger-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Roger-github" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
    
    <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
