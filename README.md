@@ -3,7 +3,7 @@
 
  ![Snake animation](https://github.com/Keykrono/Keykrono/blob/output/github-contribution-grid-snake.svg)
 
-### Hi there 👋
+<h1>### Hi there 👋</h1>
 <hr/>
 
 <div align="center">
@@ -46,9 +46,7 @@
   
    <img align="center" alt="Roger-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
-    
-  
-  <img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+
 
  <h1>Conhecimentos de bancos de dados</h1>
 
@@ -57,19 +55,29 @@
              
    <img align="center" alt="Roger-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  
+ 
    <h1> 📫 How to reach me </h1>
    
 
    <a href = "mailto:keykrono117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
    <a href="https://www.linkedin.com/in/roger-ferreira-da-silva-982242214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-   
-                 
-   <img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+              
+  
           
+ <h1> Full Stack
+  
+   <img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  
+  <img align="center" alt="Roger-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  
+  
+<img align="center" alt="Roger-jquery" height="30" width="40" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
+  
   <img align="center" alt="Roger-ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-          
+  
+  
  <h1> Conhecimentos em outras tecnologias
   
   <img align="center" alt="Roger-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
@@ -77,23 +85,8 @@
    <img align="center" alt="Roger-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
           
    
-
-
-          
-   
    <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
   
-                                                       
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
   
  
 </div>
