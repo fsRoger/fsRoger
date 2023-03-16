@@ -51,12 +51,12 @@
  <h1>Conhecimentos de bancos de dados</h1>
 
  
- <img align="center" alt="Roger-mysql" height="30" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-             
-   <img align="center" alt="Roger-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
- 
- 
-   <h1> 📫 How to reach me </h1>
+ ><img align="center" alt="Roger-mysql" height="30" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+>             
+   ><img align="center" alt="Roger-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+ >
+ >
+  > <h1> 📫 How to reach me </h1>
    
 
    <a href = "mailto:keykrono117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
