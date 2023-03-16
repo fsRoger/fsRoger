@@ -35,7 +35,9 @@
    <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
    <i class="fa-brands fa-react"></i>
   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+          
+   <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
           
    
    <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
