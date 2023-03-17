@@ -84,8 +84,8 @@
 </div>
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
-
-👨‍🎓 I’m currently working on my resume.
+:godmode:
+👨‍🎓 I’m currently working on my resume
 
 🧗 I’m looking for opportunities with my career.
 
@@ -96,6 +96,18 @@
 
 💬 Ask me
  
+Lista de tarefas:
+-[x] fazer as malas
+-[ ] ir embora
+-[x] fazer as malas
+-[ ] ir embora
+tabela
+num | nome | nota
+---|---|---
+1 | roger | 10
+2 | rogwe | 10
+3 | ewf | 10
+    
  |**Há 10 tipos de pessoas no mundo...**|
  |:-----------------------------------------:|
  |1. As que sabem contar em binário|
@@ -115,10 +127,5 @@
  
  
  # Para se colocar imagens em markdown, use a seguinte estrutura: ![texto](referência a imagem).
-#
-# Exemplo
-#
-# ![Isso é Lógico](https://user-images.githubusercontent.com/62623572/80289460-eb992780-8714-11ea-98a3-1874cb5f2e22.png)
-#
-# Veja o resultado abaixo:
+
 
