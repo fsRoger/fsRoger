@@ -3,7 +3,7 @@
 
  ![Snake animation](https://github.com/Keykrono/Keykrono/blob/output/github-contribution-grid-snake.svg)
 
-<h1>### Hi there 👋</h1>
+### Hi there 👋
 <hr/>
 
 <div align="center">
