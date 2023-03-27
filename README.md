@@ -81,19 +81,18 @@
  
  
  
-I’m currently nome nota
-I’m looking working on my resume
-I’m looking for opportunities with my career.
-to collaborate  on my personal bisnes.
-⚡Fun fact:...I always wanted to be an eternal student. 😄
-👨‍🎓  
 
-🧗  
+ 
 
-🕵️   
+
+👨‍🎓I’m looking working on my resume
+
+🧗 to collaborate  on my personal bisnes. 
+
+🕵️ I’m looking for opportunities with my career.   
+  
+💬 Ask me
  
 😄 Pronouns: He.
-  
 
-💬 Ask me
-
+⚡Fun fact:...I always wanted to be an eternal student. 😄
