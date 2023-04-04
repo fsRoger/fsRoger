@@ -83,16 +83,18 @@
  
 
  
+<div align=center>
 
+ 👨‍🎓I’m looking working on my resume
 
-👨‍🎓I’m looking working on my resume
+ 🧗 to collaborate  on my personal bisnes. 
 
-🧗 to collaborate  on my personal bisnes. 
-
-🕵️ I’m looking for opportunities with my career.   
+ 🕵️ I’m looking for opportunities with my career.   
   
-💬 Ask me
+ 💬 Ask me
  
-😄 Pronouns: He.
+ 😄 Pronouns: He.
 
-⚡Fun fact:...I always wanted to be an eternal student. 😄
+ ⚡Fun fact:...I always wanted to be an eternal student. 😄
+ 
+ </div>
