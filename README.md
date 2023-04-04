@@ -50,16 +50,12 @@
    
 <img align="center" alt="Roger-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  
-  <h1> 📫 How to reach me </h1>
-   
-
-  <a href = "mailto:keykrono117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
-   <a href="https://www.linkedin.com/in/roger-ferreira-da-silva-982242214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
               
   
           
- <h1> Full Stack
+ <h1> Full Stack</h1>
+  <br></br>
   
  <img align="center" alt="Roger-jquery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
 
@@ -68,6 +64,7 @@
  <img align="center" alt="Roger-ionic" height="60" margin="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   
  <h1> Conhecimentos em outras tecnologias
+  <br></br>
   
  <img align="center" alt="Roger-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   
@@ -79,11 +76,16 @@
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
 </div>
  
- 
- 
+ <div align=center>
+ <h1> 📫 How to reach me </h1>
+   
+
+  <a href = "mailto:keykrono117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
+   <a href="https://www.linkedin.com/in/roger-ferreira-da-silva-982242214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  
-<div align=center>
+
 
  👨‍🎓I’m looking working on my resume
 
