@@ -13,9 +13,8 @@
 </div>
   
 <div align="center">
-<br>
-  
-  <h1> Conhecimentos de front-end </h1>
+
+  <h1>Front-end </h1>
 <img align="center" alt="Roger-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
  <img align="center" alt="Roger-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,8 +28,8 @@
  
 
   
-<div align=center>
- <h1>Conhecimentos de Back-End</h1>  
+<div align="center">
+ <h1>Back-End</h1>  
     
  <img align="center" alt="Roger-node" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
  
@@ -42,7 +41,7 @@
   
  <img align="center" alt="Roger-c" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
- <h1>Conhecimentos de bancos de dados</h1>
+ <h1>Data Bases</h1>
 
  <img align="center" alt="Roger-mysql" height="80" width="80" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
@@ -52,7 +51,7 @@
               
   
           
- <h1> Full Stack</h1>
+ <h1>Full Stack</h1>
   <br></br>
   
  <img align="center" alt="Roger-jquery" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
@@ -61,7 +60,7 @@
                    
  <img align="center" alt="Roger-ionic" height="60" margin="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
   
- <h1> Conhecimentos em outras tecnologias
+ <h1>technologies
   <br></br>
   
  <img align="center" alt="Roger-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
@@ -71,11 +70,11 @@
 
   
 </div>
+<div align="center">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-   <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
+   <a href="https://keykrono.github.io/fsRoger/">🧑‍portfolio💻</a>
 </div>
- 
- <div align=center>
+ <div align="center">
  <h1> 📫 How to reach me </h1>
    
 
