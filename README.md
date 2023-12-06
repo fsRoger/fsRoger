@@ -46,9 +46,9 @@
 
  <h1>Conhecimentos de bancos de dados</h1>
 
- <img align="center" alt="Roger-mysql" height="30" width="40" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="center" alt="Roger-mysql" height="80" width="80" margin="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    
-<img align="center" alt="Roger-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="center" alt="Roger-mongodb" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
  
   
               
@@ -70,10 +70,11 @@
   
  <img align="center" alt="Roger-github" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
            
- <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
+
   
 </div>
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
+   <a href="https://keykrono.github.io/fsRoger/">🧑‍Portifólio💻</a>
 </div>
  
  <div align=center>
