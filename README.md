@@ -27,9 +27,7 @@
  <img align="center" alt="Roger-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  
  
-  <br></br>
-  <br></br>
-  <br></br>
+
   
 <div align=center>
  <h1>Conhecimentos de Back-End</h1>  
