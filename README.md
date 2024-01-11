@@ -73,7 +73,7 @@
 </div>
 <div align="center">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-   <a href="https://keykrono.github.io/fsRoger/](https://portifoliorfs.vercel.app/)">🧑‍portfolio💻</a>
+   <a href="https://portifoliorfs.vercel.app">PORTIFÓLIO💻</a>
 </div>
  <div align="center">
  <h1> 📫 How to reach me </h1>
