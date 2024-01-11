@@ -4,6 +4,7 @@
  ![Snake animation](https://github.com/Keykrono/Keykrono/blob/output/github-contribution-grid-snake.svg)
 
 <h1>Hi there 👋</h1>
+<a href="https://keykrono.github.io/fsRoger/](https://portifoliorfs.vercel.app/)">🧑‍portfolio💻</a>
 <hr/>
 
 <div align="center">
@@ -72,7 +73,7 @@
 </div>
 <div align="center">
   <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-   <a href="https://keykrono.github.io/fsRoger/">🧑‍portfolio💻</a>
+   <a href="https://keykrono.github.io/fsRoger/](https://portifoliorfs.vercel.app/)">🧑‍portfolio💻</a>
 </div>
  <div align="center">
  <h1> 📫 How to reach me </h1>
