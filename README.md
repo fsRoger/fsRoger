@@ -71,13 +71,10 @@
 
   
 </div>
-<div align="center">
-  <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-   <a href="https://portifoliorfs.vercel.app">PORTIFÓLIO💻</a>
-</div>
+
  <div align="center">
  <h1> 📫 How to reach me </h1>
-   
+   <H1><a href="https://portifoliorfs.vercel.app/">💻Visite meu PORTIFÓLIO</a></H1>
 
   <a href = "mailto:keykrono117@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
